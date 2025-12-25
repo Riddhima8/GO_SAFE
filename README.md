@@ -41,20 +41,6 @@
   <h2>📱 Demo</h2>
 <li><a href="https://drive.google.com/file/d/1vo1J0L4F-hY4Gm3RneU_lmScY8FkNRlp/view?usp=drive_link" target="_blank">Demo Video</a></li>
 
-    
-  <hr>
-
-  <h2>🚀 Getting Started</h2>
-
-  <p>If you're new to Flutter, check out these resources to get started:</p>
-
-  <ul>
-    <li><a href="https://docs.flutter.dev/get-started/codelab" target="_blank">Lab: Write your first Flutter app</a></li>
-    <li><a href="https://docs.flutter.dev/cookbook" target="_blank">Cookbook: Useful Flutter samples</a></li>
-    <li><a href="https://docs.flutter.dev/" target="_blank">Flutter Documentation</a></li>
-  </ul>
-
-  <hr>
 
   <h2>📂 Project Structure</h2>
   <pre>
